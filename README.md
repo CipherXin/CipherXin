@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CipherXin
+- 👋 Hi, I’m IA.
 - 👀 I’m interested in Game design and Front end 
 - 🌱 I’m currently learning Frontend 
 - 💞️ I’m looking to collaborate on anything related to both
