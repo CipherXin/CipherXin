@@ -1,5 +1,5 @@
 - 👋 Hi, I’m IA.
-- 👀 I’m interested in Game design and Front end 
+- 👀 I’m interested in Game design, Front end and Python 
 - 🌱 I’m currently learning Frontend 
 - 💞️ I’m looking to collaborate on anything related to both
 - 📫 How to reach me i.am.inioluwaolivia@gmail.com
